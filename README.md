@@ -16,5 +16,5 @@ This challenge consists of a total of **75 carefully selected DSA questions** ai
 - 📅 Start Date: **18 May**
 - 🎯 Total Questions: **75**
 - 💻 Language: **Java**
-- 🔥 Daily Goal: **2–3 Questions**
+- 🔥 Daily Goal: **2 Questions**
 - 📚 Focus: DSA Concepts + Coding Practice
