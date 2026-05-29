@@ -3,7 +3,7 @@
 Welcome to my **Summer DSA Series** repository!  
 Starting from **18th May**, I will be solving Data Structures & Algorithms problems daily** using **Java**.
 
-This challenge consists of a total of **75 carefully selected DSA questions** aimed at improving:
+This challenge consists of **selected DSA questions** aimed at improving:
 - Problem-solving skills
 - Logical thinking
 - Coding consistency
